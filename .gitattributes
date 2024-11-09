@@ -1,0 +1,8 @@
+# Ensure text files have LF line endings in the repository
+* text=auto
+
+# Treat Python files as text and use LF in the repository
+*.py text eol=lf
+
+# Ignore line-ending conversions for virtual environments
+venv/* -text
