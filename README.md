@@ -37,7 +37,7 @@ The SQL Query Bot can answer questions such as "Which countries generate the hig
 
 ## Sales Prediction Model
 
-![Sales Prediction Model](path/to/prediction-model-image.png)
+![SQL Query Bot](images/sales.png)
 
 This model predicts sales based on historical data using linear regression. The model is trained and evaluated to ensure accuracy.
 
