@@ -29,7 +29,7 @@ This repository contains code and resources for a sales analysis and prediction 
 
 ## SQL Query Bot Demo
 
-![SQL Query Bot](C:\Users\otell\Downloads\sql.png)
+![SQL Query Bot](images\sql.png)
 
 The SQL Query Bot can answer questions such as "Which countries generate the highest sales volumes?" by generating and executing SQL queries based on user input.
 
